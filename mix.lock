@@ -1,0 +1,4 @@
+%{"belixir": {:hex, :belixir, "0.2.0", "46e3494cd248a39ddd0c58c6d3d2950869d2d5f52961b1dbb69218d0a76b8ff8", [:mix], []},
+  "benchee": {:hex, :benchee, "0.4.0", "1c7c5bd4917490b4dd4038876875e6994d9657d3a1865ffcec62a7b73b5fd809", [:mix], []},
+  "benchfella": {:hex, :benchfella, "0.3.3", "bbde48b5fe1ef556baa7ad933008e214e050e81ddb0916350715f5759fb35c0c", [:mix], []},
+  "bmark": {:hex, :bmark, "1.0.3", "516e4383fbf6128b580925336ae2ccda50ecb68ce393d72a04b152165ce87df4", [:mix], []}}
